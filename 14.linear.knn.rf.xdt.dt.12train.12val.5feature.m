@@ -41,7 +41,7 @@ Print@cummulativeEraSizes
 trainPureData=Transpose[Transpose[numeraiData[[2;;-1]]][[4;;-1]]];
 Dimensions[trainPureData]
 (*(*Last 3 months, 6 months, 9 months, 12 months, 15, 18, 21, 24 months*)*)
-lastnEras=Table[With[{n=h},trainPureData[[cummulativeEraSizes[[-1-n]]+1;;cummulativeEraSizes[[-1]]]]],{h,1,nMaxEraTrain,1}];
+lastnEras=Table[With[{n=h},trainPureData[[cummulativeEraSizes[[-1-n]]+1;;cummulativeEraSizes[[-1]]]]],{h,1,12,1}];
 lastnEras//Dimensions
 Print["Last n eras: "]
 Print[lastnEras//Dimensions]
@@ -53,7 +53,7 @@ cummulativeEraSizesVal=Total/@Table[Transpose[eraSizesVal][[2]][[1;;i]],{i,1,Len
 Print@cummulativeEraSizesVal
 valPureData=Transpose[Transpose[numeraiDataValidation[[2;;-1]]][[4;;-1]]];
 (*(*Last 3 months, 6 months, 9 months, 12 months, 15, 18, 21, 24 months*)*)
-nErasVal=Table[With[{n=h},valPureData[[1;;cummulativeEraSizesVal[[h]]]]],{h,1,nMaxEraVal,1}];
+nErasVal=Table[With[{n=h},valPureData[[1;;cummulativeEraSizesVal[[h]]]]],{h,1,12,1}];
 nErasVal//Dimensions
 Print["nErasVal: "]
 Print[nErasVal//Dimensions]
