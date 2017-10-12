@@ -8,5 +8,7 @@ Machine learning tests
 4) HPC for hyperparameter optimisation
 
 ------
-To run
-module load mathematica ; wolfram -script 14.linear.knn.rf.xdt.dt.12train.12val.5feature.m > 14.out &
+To run single
+module load mathematica ; wolfram -script 14.linear.knn.rf.xdt.dt.12train.12val.5feature.m > 14.out & 
+batch
+./run.sh & ; disown %{1..10}
