@@ -1,5 +1,5 @@
 #!/bin/bash
-a=15
+a=20
 b=10
 
 grep -o -P 'LinearRegression, .{0,55}' $a.linear.knn.rf.xdt.dt.12train.12val.$b"feature.m.out" | tail -n 12 | awk '{print $4}' > lin.tmp

@@ -1,0 +1,159 @@
+{535714, 54}
+{348843, 54}
+{6343, 12654, 18941, 25235, 31522, 37582, 43696, 49795, 55869, 61944, 68242, 74627, 81016, 87374, 93713, 100066, 106394, 112699, 119060, 125400, 131709, 137988, 144558, 151307, 158064, 164807, 171524, 178227, 184912, 191591, 198336, 205070, 211782, 218575, 225123, 231671, 238133, 244570, 250998, 257318, 263633, 269937, 276323, 282689, 289046, 295013, 300963, 306893, 312836, 318778, 324712, 330656, 336600, 342534, 348501, 354447, 360374, 366538, 372709, 378862, 385031, 391194, 397335, 403471, 409586, 415688, 421846, 427992, 434124, 440595, 447068, 453531, 459991, 466441, 472870, 479288, 485712, 492103, 498521, 504912, 511290, 517398, 523518, 529617, 535713}
+Last n eras: 
+{48}
+{{era86, 6091}, {era87, 6079}, {era88, 6067}, {era89, 6064}, {era90, 6050}, {era91, 6027}, {era92, 6048}, {era93, 6038}, {era94, 6326}, {era95, 6349}, {era96, 6336}, {era97, 6390}, {eraX, 274977}}
+{6091, 12170, 18237, 24301, 30351, 36378, 42426, 48464, 54790, 61139, 67475, 73865, 348842}
+nErasVal: 
+{12}
+Row[{Time elapsed, Training example used, Current best method, Current loss},   |  ]
+Row[{5.5s, 300/297580, LinearRegression, 0.509, 0.509},     |    ]
+Row[{6.s, 8000/297580, LinearRegression, 0.500, 0.500},     |    ]
+Row[{6.6s, 8000/297580, LinearRegression, 0.498, 0.498},     |    ]
+Row[{7.1s, 8000/297580, LinearRegression, 0.498, 0.498},     |    ]
+Row[{9.6s, 40000/297580, LinearRegression, 0.500, 0.500},     |    ]
+Row[{12s, 40000/297580, LinearRegression, 0.499, 0.499},     |    ]
+Row[{12s, 40000/297580, LinearRegression, 0.499, 0.499},     |    ]
+Row[{14s, 40000/297580, LinearRegression, 0.499, 0.499},     |    ]
+Row[{15s, 40000/297580, LinearRegression, 0.499, 0.499},     |    ]
+Row[{18s, 40000/297580, LinearRegression, 0.499, 0.499},     |    ]
+Row[{18s, 40000/297580, LinearRegression, 0.499, 0.499},     |    ]
+Row[{19s, 40000/297580, LinearRegression, 0.499, 0.499},     |    ]
+Row[{21s, 40000/297580, LinearRegression, 0.499, 0.499},     |    ]
+Row[{31s, 238064/297580, LinearRegression, 0.499, 0.499},     |    ]
+Row[{32s, 238064/297580, LinearRegression, 0.499, 0.499},     |    ]
+Row[{32s, 238064/297580, LinearRegression, 0.499, 0.499},     |    ]
+Row[{33s, 238064/297580, LinearRegression, 0.498, 0.498},     |    ]
+Row[{33s, 238064/297580, LinearRegression, 0.498, 0.498},     |    ]
+Row[{34s, 238064/297580, LinearRegression, 0.498, 0.498},     |    ]
+Row[{35s, 238064/297580, LinearRegression, 0.498, 0.498},     |    ]
+Row[{35s, 238064/297580, LinearRegression, 0.498, 0.498},     |    ]
+Row[{36s, 238064/297580, LinearRegression, 0.498, 0.498},     |    ]
+Row[{Time elapsed, Training example used, Current best method, Current loss},   |  ]
+Row[{2.s, 1500/297580, NearestNeighbors, 0.500, 0.500},     |    ]
+Row[{2.5s, 1500/297580, NearestNeighbors, 0.500, 0.500},     |    ]
+Row[{3.1s, 1500/297580, NearestNeighbors, 0.500, 0.500},     |    ]
+Row[{3.7s, 1500/297580, NearestNeighbors, 0.500, 0.500},     |    ]
+Row[{4.4s, 1500/297580, NearestNeighbors, 0.500, 0.500},     |    ]
+Row[{5.s, 1500/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{5.7s, 8000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{6.3s, 8000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{6.8s, 8000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{7.3s, 8000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{7.9s, 8000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{8.5s, 8000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{9.1s, 8000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{9.8s, 8000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{10s, 8000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{11s, 8000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{11s, 8000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{12s, 8000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{12s, 8000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{13s, 8000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{14s, 8000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{14s, 8000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{16s, 8000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{17s, 40000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{19s, 40000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{20s, 40000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{21s, 40000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{22s, 40000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{24s, 40000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{26s, 40000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{28s, 40000/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{39s, 238064/297580, NearestNeighbors, 0.498, 0.498},     |    ]
+Row[{Time elapsed, Training example used, Current best method, Current loss},   |  ]
+Row[{13s, 300/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{14s, 300/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{14s, 1500/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{15s, 1500/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{15s, 1500/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{16s, 1500/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{17s, 1500/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{17s, 1500/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{18s, 1500/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{19s, 1500/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{19s, 1500/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{20s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{21s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{22s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{22s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{23s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{24s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{24s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{25s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{25s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{26s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{27s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{27s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{28s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{29s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{29s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{30s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{30s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{31s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{32s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{32s, 8000/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{33s, 8000/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{34s, 8000/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{34s, 8000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{35s, 40000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{35s, 40000/297580, GradientBoostedTrees, 0.500, 0.500},     |    ]
+Row[{36s, 40000/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{36s, 40000/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{37s, 40000/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{38s, 40000/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{38s, 40000/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{39s, 40000/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{40s, 40000/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{40s, 40000/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{41s, 40000/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{41s, 40000/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{42s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{43s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{44s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{44s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{45s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{46s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{47s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{47s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{48s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{49s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{50s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{50s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{51s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{52s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{53s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{54s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{55s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{56s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+Row[{57s, 238064/297580, GradientBoostedTrees, 0.499, 0.499},     |    ]
+ 
+{TableForm[1], TableForm[{Train-set size: , 297580,  Validation-set size: , 6091}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.0513945891053475, 0.4743027054473262, 0.6931693915828471, 6.595807011147096*^-6}, {NearestNeighbors, 0.033700807841147755, 0.5168504039205739, 0.6948129382164328, 0.0011053223011986979}, {GradientBoostedTrees, 0.0388419124837259, 0.5194209562418629, 0.6920077560189963, 0.000596755008615392}}]}
+ 
+{TableForm[2], TableForm[{Train-set size: , 297580,  Validation-set size: , 12170}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.05243884642593751, 0.4737805767870312, 0.6931739837069638, 4.663922639202399*^-6}, {NearestNeighbors, 0.03372591417433816, 0.5168629570871691, 0.6944601463727064, 0.0007811712889091696}, {GradientBoostedTrees, 0.04552413176155012, 0.522762065880775, 0.6913619073304729, 0.00041948204314700284}}]}
+ 
+{TableForm[3], TableForm[{Train-set size: , 297580,  Validation-set size: , 18237}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.034945966660979044, 0.4825270166695105, 0.6931646729566373, 3.810845358746239*^-6}, {NearestNeighbors, 0.03123869742985621, 0.5156193487149281, 0.6946668005684639, 0.0006372826918353112}, {GradientBoostedTrees, 0.03554308928791498, 0.5177715446439575, 0.6919310252758993, 0.0003438003420290708}}]}
+ 
+{TableForm[4], TableForm[{Train-set size: , 297580,  Validation-set size: , 24301}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.015523047042073156, 0.4922384764789634, 0.6931558507534532, 3.2947942705432505*^-6}, {NearestNeighbors, 0.02649517314276369, 0.5132475865713818, 0.695068226587185, 0.0005534865000856508}, {GradientBoostedTrees, 0.03197408250304149, 0.5159870412515207, 0.6925635955601743, 0.00029903259819522265}}]}
+ 
+{TableForm[5], TableForm[{Train-set size: , 297580,  Validation-set size: , 30351}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.01631818723691303, 0.4918409063815435, 0.693157348520929, 2.950506457410746*^-6}, {NearestNeighbors, 0.029855066882159394, 0.5149275334410797, 0.694591927202936, 0.0004961430418249129}, {GradientBoostedTrees, 0.03264338536088367, 0.5163216926804418, 0.6923814426521065, 0.00026789165193035527}}]}
+ 
+{TableForm[6], TableForm[{Train-set size: , 297580,  Validation-set size: , 36378}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.013148167960946143, 0.49342591601952696, 0.6931556643089264, 2.693761985836827*^-6}, {NearestNeighbors, 0.032534296666133465, 0.5162671483330667, 0.6942923504912518, 0.00045254067609816327}, {GradientBoostedTrees, 0.033581558273175646, 0.5167907791365878, 0.6924065698435469, 0.0002448872979259882}}]}
+ 
+{TableForm[7], TableForm[{Train-set size: , 297580,  Validation-set size: , 42426}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.00952913188127844, 0.49523543405936077, 0.6931527416125876, 2.4906470551625817*^-6}, {NearestNeighbors, 0.02779964083899827, 0.5138998204194991, 0.6946869164469143, 0.0004196060227975617}, {GradientBoostedTrees, 0.027180925866797087, 0.5135904629333985, 0.6926598244980419, 0.00022678554936967837}}]}
+ 
+{TableForm[8], TableForm[{Train-set size: , 297580,  Validation-set size: , 48464}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.008218321837660593, 0.4958908390811697, 0.6931525831539054, 2.3272774374319626*^-6}, {NearestNeighbors, 0.018880855901906995, 0.5094404279509535, 0.6953717761840562, 0.0003927511684708087}, {GradientBoostedTrees, 0.018558805498298338, 0.5092794027491492, 0.6930372844330142, 0.0002122532570022309}}]}
+ 
+{TableForm[9], TableForm[{Train-set size: , 297580,  Validation-set size: , 54790}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.012491569478214585, 0.4937542152608927, 0.6931563106738484, 2.184904936934001*^-6}, {NearestNeighbors, 0.024479884763249266, 0.5122399423816246, 0.6947253487216509, 0.0003692487186169902}, {GradientBoostedTrees, 0.030471276518163375, 0.5152356382590817, 0.6924261057969506, 0.00019967113916494997}}]}
+ 
+{TableForm[10], TableForm[{Train-set size: , 297580,  Validation-set size: , 61139}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.0141893189071922, 0.4929053405464039, 0.6931569732877033, 2.0651736891057308*^-6}, {NearestNeighbors, 0.024409607783697117, 0.5122048038918485, 0.6946567031864612, 0.00034981116271975336}, {GradientBoostedTrees, 0.03088697855000146, 0.5154434892750007, 0.6923547799144255, 0.0001887481987077348}}]}
+ 
+{TableForm[11], TableForm[{Train-set size: , 297580,  Validation-set size: , 67475}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.013064332860531089, 0.49346783356973445, 0.6931560932108473, 1.9667458140390784*^-6}, {NearestNeighbors, 0.025232785363453254, 0.5126163926817267, 0.6945364090838692, 0.0003328438292694896}, {GradientBoostedTrees, 0.03157235251162554, 0.5157861762558128, 0.6924040745973967, 0.00017964424015830187}}]}
+ 
+{TableForm[12], TableForm[{Train-set size: , 297580,  Validation-set size: , 73865}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.01336964709810574, 0.49331517645094713, 0.6931557456003327, 1.8784839744073436*^-6}, {NearestNeighbors, 0.024730086603002244, 0.5123650433015011, 0.6946983823087911, 0.00031804893811563414}, {GradientBoostedTrees, 0.027311967232472152, 0.5136559836162361, 0.6926204804870937, 0.00017162427998764477}}]}
+numeraiTest:
+TableForm[{{TableForm[1], TableForm[{Train-set size: , 297580,  Validation-set size: , 6091}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.0513945891053475, 0.4743027054473262, 0.6931693915828471, 6.595807011147096*^-6}, {NearestNeighbors, 0.033700807841147755, 0.5168504039205739, 0.6948129382164328, 0.0011053223011986979}, {GradientBoostedTrees, 0.0388419124837259, 0.5194209562418629, 0.6920077560189963, 0.000596755008615392}}]}, {TableForm[2], TableForm[{Train-set size: , 297580,  Validation-set size: , 12170}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.05243884642593751, 0.4737805767870312, 0.6931739837069638, 4.663922639202399*^-6}, {NearestNeighbors, 0.03372591417433816, 0.5168629570871691, 0.6944601463727064, 0.0007811712889091696}, {GradientBoostedTrees, 0.04552413176155012, 0.522762065880775, 0.6913619073304729, 0.00041948204314700284}}]}, {TableForm[3], TableForm[{Train-set size: , 297580,  Validation-set size: , 18237}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.034945966660979044, 0.4825270166695105, 0.6931646729566373, 3.810845358746239*^-6}, {NearestNeighbors, 0.03123869742985621, 0.5156193487149281, 0.6946668005684639, 0.0006372826918353112}, {GradientBoostedTrees, 0.03554308928791498, 0.5177715446439575, 0.6919310252758993, 0.0003438003420290708}}]}, {TableForm[4], TableForm[{Train-set size: , 297580,  Validation-set size: , 24301}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.015523047042073156, 0.4922384764789634, 0.6931558507534532, 3.2947942705432505*^-6}, {NearestNeighbors, 0.02649517314276369, 0.5132475865713818, 0.695068226587185, 0.0005534865000856508}, {GradientBoostedTrees, 0.03197408250304149, 0.5159870412515207, 0.6925635955601743, 0.00029903259819522265}}]}, {TableForm[5], TableForm[{Train-set size: , 297580,  Validation-set size: , 30351}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.01631818723691303, 0.4918409063815435, 0.693157348520929, 2.950506457410746*^-6}, {NearestNeighbors, 0.029855066882159394, 0.5149275334410797, 0.694591927202936, 0.0004961430418249129}, {GradientBoostedTrees, 0.03264338536088367, 0.5163216926804418, 0.6923814426521065, 0.00026789165193035527}}]}, {TableForm[6], TableForm[{Train-set size: , 297580,  Validation-set size: , 36378}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.013148167960946143, 0.49342591601952696, 0.6931556643089264, 2.693761985836827*^-6}, {NearestNeighbors, 0.032534296666133465, 0.5162671483330667, 0.6942923504912518, 0.00045254067609816327}, {GradientBoostedTrees, 0.033581558273175646, 0.5167907791365878, 0.6924065698435469, 0.0002448872979259882}}]}, {TableForm[7], TableForm[{Train-set size: , 297580,  Validation-set size: , 42426}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.00952913188127844, 0.49523543405936077, 0.6931527416125876, 2.4906470551625817*^-6}, {NearestNeighbors, 0.02779964083899827, 0.5138998204194991, 0.6946869164469143, 0.0004196060227975617}, {GradientBoostedTrees, 0.027180925866797087, 0.5135904629333985, 0.6926598244980419, 0.00022678554936967837}}]}, {TableForm[8], TableForm[{Train-set size: , 297580,  Validation-set size: , 48464}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.008218321837660593, 0.4958908390811697, 0.6931525831539054, 2.3272774374319626*^-6}, {NearestNeighbors, 0.018880855901906995, 0.5094404279509535, 0.6953717761840562, 0.0003927511684708087}, {GradientBoostedTrees, 0.018558805498298338, 0.5092794027491492, 0.6930372844330142, 0.0002122532570022309}}]}, {TableForm[9], TableForm[{Train-set size: , 297580,  Validation-set size: , 54790}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.012491569478214585, 0.4937542152608927, 0.6931563106738484, 2.184904936934001*^-6}, {NearestNeighbors, 0.024479884763249266, 0.5122399423816246, 0.6947253487216509, 0.0003692487186169902}, {GradientBoostedTrees, 0.030471276518163375, 0.5152356382590817, 0.6924261057969506, 0.00019967113916494997}}]}, {TableForm[10], TableForm[{Train-set size: , 297580,  Validation-set size: , 61139}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.0141893189071922, 0.4929053405464039, 0.6931569732877033, 2.0651736891057308*^-6}, {NearestNeighbors, 0.024409607783697117, 0.5122048038918485, 0.6946567031864612, 0.00034981116271975336}, {GradientBoostedTrees, 0.03088697855000146, 0.5154434892750007, 0.6923547799144255, 0.0001887481987077348}}]}, {TableForm[11], TableForm[{Train-set size: , 297580,  Validation-set size: , 67475}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.013064332860531089, 0.49346783356973445, 0.6931560932108473, 1.9667458140390784*^-6}, {NearestNeighbors, 0.025232785363453254, 0.5126163926817267, 0.6945364090838692, 0.0003328438292694896}, {GradientBoostedTrees, 0.03157235251162554, 0.5157861762558128, 0.6924040745973967, 0.00017964424015830187}}]}, {TableForm[12], TableForm[{Train-set size: , 297580,  Validation-set size: , 73865}], TableForm[Net train time: 157.509 s], TableForm[{Best features: , topfeatures}], TableForm[{{Method, correlation, accuracy, logloss, logloss-error}, {LinearRegression, -0.01336964709810574, 0.49331517645094713, 0.6931557456003327, 1.8784839744073436*^-6}, {NearestNeighbors, 0.024730086603002244, 0.5123650433015011, 0.6946983823087911, 0.00031804893811563414}, {GradientBoostedTrees, 0.027311967232472152, 0.5136559836162361, 0.6926204804870937, 0.00017162427998764477}}]}}]
+
+Syntax::sntue: Unexpected end of file (probably unfinished expression)  (line 134 of "25.linear.knn.rf.xdt.dt.48train.12val.25feature.m").
